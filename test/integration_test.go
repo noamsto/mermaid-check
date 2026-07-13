@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	mermaid "github.com/sammcj/mermaid-check"
-	"github.com/sammcj/mermaid-check/ast"
-	"github.com/sammcj/mermaid-check/extractor"
+	mermaid "github.com/noamsto/mermaid-check"
+	"github.com/noamsto/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/extractor"
 )
 
 // TestMixedDiagramTypesInMarkdown tests parsing markdown with multiple diagram types.

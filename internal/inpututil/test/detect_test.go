@@ -3,7 +3,7 @@ package inpututil_test
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/internal/inpututil"
+	"github.com/noamsto/mermaid-check/internal/inpututil"
 )
 
 func TestDetectFileType(t *testing.T) {

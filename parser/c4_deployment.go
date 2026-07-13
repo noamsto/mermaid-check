@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/sammcj/mermaid-check/ast"
+import "github.com/noamsto/mermaid-check/ast"
 
 // C4DeploymentParser parses C4 Deployment diagrams.
 type C4DeploymentParser struct{}

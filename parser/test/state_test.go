@@ -3,8 +3,8 @@ package parser_test
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/ast"
-	"github.com/sammcj/mermaid-check/parser"
+	"github.com/noamsto/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/parser"
 )
 
 func TestStateParser_Parse(t *testing.T) {

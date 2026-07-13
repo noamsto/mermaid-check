@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/sammcj/mermaid-check/ast"
+import "github.com/noamsto/mermaid-check/ast"
 
 // C4ContainerParser parses C4 Container diagrams.
 type C4ContainerParser struct{}

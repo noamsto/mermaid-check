@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/sammcj/mermaid-check/parser"
+	"github.com/noamsto/mermaid-check/parser"
 )
 
 // TestParserSupportedTypes ensures parsers report their supported diagram types correctly.

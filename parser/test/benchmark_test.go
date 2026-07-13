@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sammcj/mermaid-check/parser"
+	"github.com/noamsto/mermaid-check/parser"
 )
 
 // Benchmark data for various diagram types

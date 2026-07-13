@@ -5,11 +5,11 @@ import (
 	"io"
 	"os"
 
-	"github.com/sammcj/mermaid-check/ast"
-	"github.com/sammcj/mermaid-check/extractor"
-	"github.com/sammcj/mermaid-check/internal/inpututil"
-	"github.com/sammcj/mermaid-check/parser"
-	"github.com/sammcj/mermaid-check/validator"
+	"github.com/noamsto/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/extractor"
+	"github.com/noamsto/mermaid-check/internal/inpututil"
+	"github.com/noamsto/mermaid-check/parser"
+	"github.com/noamsto/mermaid-check/validator"
 )
 
 // Parse parses a raw Mermaid diagram from a string.

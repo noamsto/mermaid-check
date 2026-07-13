@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // GanttParser handles parsing of Gantt chart diagrams.

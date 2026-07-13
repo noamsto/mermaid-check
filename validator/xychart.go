@@ -3,7 +3,7 @@ package validator
 import (
 	"fmt"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // XYChartRule is a validation rule for XY chart diagrams.

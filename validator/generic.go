@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // GenericRule defines validation rules that work across all diagram types.

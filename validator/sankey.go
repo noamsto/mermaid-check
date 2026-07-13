@@ -3,7 +3,7 @@ package validator
 import (
 	"fmt"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // SankeyRule is a validation rule for Sankey diagrams.

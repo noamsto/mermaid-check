@@ -3,7 +3,7 @@ package validator
 import (
 	"fmt"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // C4Rule is the interface for C4 diagram validation rules.

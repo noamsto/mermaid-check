@@ -3,7 +3,7 @@ package parser
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // TestInlineNodeDefinitions tests that inline node definitions in link statements

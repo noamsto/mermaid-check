@@ -1,7 +1,7 @@
 package validator
 
 import (
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // GitGraphRule is a validation rule for git graph diagrams.

@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/fatih/color"
-	mermaid "github.com/sammcj/mermaid-check"
-	"github.com/sammcj/mermaid-check/ast"
-	"github.com/sammcj/mermaid-check/extractor"
-	"github.com/sammcj/mermaid-check/internal/inpututil"
+	mermaid "github.com/noamsto/mermaid-check"
+	"github.com/noamsto/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/extractor"
+	"github.com/noamsto/mermaid-check/internal/inpututil"
 )
 
 const version = "0.1.0"

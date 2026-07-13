@@ -3,7 +3,7 @@ package validator_test
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/validator"
+	"github.com/noamsto/mermaid-check/validator"
 )
 
 // TestRuleNames ensures all validation rules have proper names.

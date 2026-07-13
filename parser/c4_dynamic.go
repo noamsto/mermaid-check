@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/sammcj/mermaid-check/ast"
+import "github.com/noamsto/mermaid-check/ast"
 
 // C4DynamicParser parses C4 Dynamic diagrams.
 type C4DynamicParser struct{}

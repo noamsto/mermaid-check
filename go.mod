@@ -1,4 +1,4 @@
-module github.com/sammcj/mermaid-check
+module github.com/noamsto/mermaid-check
 
 go 1.26.2
 

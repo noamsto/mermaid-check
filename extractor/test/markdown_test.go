@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/sammcj/mermaid-check/extractor"
+	"github.com/noamsto/mermaid-check/extractor"
 )
 
 func TestExtractFromMarkdown_SingleBlock(t *testing.T) {

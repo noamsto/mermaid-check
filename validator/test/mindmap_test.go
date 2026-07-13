@@ -3,9 +3,9 @@ package validator_test
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 
-	"github.com/sammcj/mermaid-check/validator"
+	"github.com/noamsto/mermaid-check/validator"
 )
 
 func TestValidateMindmap(t *testing.T) {

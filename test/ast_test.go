@@ -3,7 +3,7 @@ package mermaid
 import (
 	"testing"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // TestASTInterfaceMethods tests that all AST types properly implement the Diagram interface.

@@ -3,7 +3,7 @@ package validator
 import (
 	"fmt"
 
-	"github.com/sammcj/mermaid-check/ast"
+	"github.com/noamsto/mermaid-check/ast"
 )
 
 // ClassRule defines a validation rule for class diagrams.

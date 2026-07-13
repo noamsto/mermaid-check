@@ -20,7 +20,7 @@ Parse, validate, and lint Mermaid diagram syntax from Go code or the command lin
 ## Installation
 
 ```bash
-go get github.com/sammcj/mermaid-check@HEAD
+go get github.com/noamsto/mermaid-check@HEAD
 ```
 
 ## Usage
@@ -116,7 +116,7 @@ Validating: docs/architecture.md
 ### Library
 
 ```go
-import "github.com/sammcj/mermaid-check"
+import "github.com/noamsto/mermaid-check"
 
 // Parse any diagram type (auto-detects)
 diagram, err := mermaid.Parse(source)
