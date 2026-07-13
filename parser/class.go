@@ -30,7 +30,7 @@ var (
 	// Association: --, -->
 	// Dependency: .., ..>, <..
 	// Realization: ..|>, <|..
-	relationshipPattern = regexp.MustCompile(`^(\w+)\s+(?:"([^"]+)"\s+)?([<*o])?(-{2}|\.{2})([>|*o]?)\s+(?:"([^"]+)"\s+)?(\w+)(?:\s*:\s*(.+))?\s*$`)
+	relationshipPattern = regexp.MustCompile(`^(\w+)\s+(?:"([^"]+)"\s+)?(<\||[<*o])?(-{2}|\.{2})(\|>|[>|*o])?\s+(?:"([^"]+)"\s+)?(\w+)(?:\s*:\s*(.+))?\s*$`)
 
 	// Note pattern
 	classNotePattern = regexp.MustCompile(`^note\s+for\s+(\w+)\s+"([^"]+)"\s*$`)
